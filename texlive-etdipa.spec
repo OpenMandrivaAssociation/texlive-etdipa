@@ -1,6 +1,6 @@
 Name:		texlive-etdipa
 Version:	36354
-Release:	1
+Release:	2
 Summary:	Simple, lightweight template for scientific documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/etdipa
