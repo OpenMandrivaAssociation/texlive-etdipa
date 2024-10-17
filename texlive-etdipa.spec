@@ -3,7 +3,7 @@ Version:	36354
 Release:	2
 Summary:	Simple, lightweight template for scientific documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/etdipa
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/etdipa
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/etdipa.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/etdipa.doc.r%{version}.tar.xz
